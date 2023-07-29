@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Length Unit Converter</string>
+    <string name="select_from_unit_prompt">Select From Unit</string>
+    <string name="select_to_unit_prompt">Select To Unit</string>
+    <string name="enter_value_hint">Enter Value</string>
+    <string name="convert_button">Convert</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar"></style>
+    <string-array name="length_units_array">
+        <item>Meters</item>
+        <item>Feet</item>
+        <item>Centimeters</item>
+        <item>Inches</item>
+
+    </string-array>
+</resources>
